@@ -12,20 +12,6 @@ The Pharmacy Management System is designed to streamline and automate pharmacy o
 - **Order Processing:** Handle orders.
 - **Employee Management:** Track employee details.
 
-## Database Schema
-
-The project consists of the following tables:
-
-- `suppliers`: Supplier information.
-- `inventory`: Inventory details.
-- `medicine`: Medicine details.
-- `patients`: Patient information.
-- `basket`: Shopping baskets.
-- `basket_items`: Items in baskets.
-- `orders`: Order details.
-- `employees`: Employee information.
-- `jobs`: Job roles and contracts.
-
 ## Getting Started
 
 ### Prerequisites
